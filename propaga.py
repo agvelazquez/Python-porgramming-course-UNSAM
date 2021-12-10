@@ -1,5 +1,4 @@
 # Ejercicio 4.6: Propagación
-# Hecho con Rocio Gonzalez
 
 def propagar(vector):
     nuevo= [0]*len(vector)
