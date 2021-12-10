@@ -1,2 +1,2 @@
 # Python-porgramming-course-UNSAM
-Some interesting codes I have developed during the course
+Some interesting scripts I have developed during the course
